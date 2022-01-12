@@ -1,2 +1,2 @@
 # practice
-simple layout
+https://kazifarabi73.github.io/practice/
